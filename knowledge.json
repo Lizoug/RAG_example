@@ -1,0 +1,101 @@
+{
+   "dmu1": {
+      "document": "Dennis Müller hat seine Sprechstunde am Mittwoch von 10:00 Uhr bis 12:00 Uhr",
+      "topics": [
+         "Wann bietet Dennis Müller seine Sprechstunde?",
+         " In welchen Tagen in der Woche hält Dennis Müller seine Sprechstunde? (In which days a week does Dennis Müller hold his consultation hour?)",
+         " In welchem Tagen in der Woche hält Dennis Müller seine Sprechstunde? (In which days a week does Dennis Müller hold his consultation hour?)",
+         " In welchem Tagen in der Woche hält Dennis Müller seine Sprechstunde? (In what days a week does Dennis Müller hold his consultation hour?)",
+         " Welche Tage in der Woche hält Dennis Müller seine Sprechstunde? (Which days a week does Dennis Müller hold his office hours?)",
+         " In welchem Tagen in der Woche hält Dennis Müller seine Sprechstunde? (What days a week does Dennis Müller hold his office hours?)",
+         " Welche Tage in der Woche hält Dennis Müller seine Sprechstunde? (What days a week does Dennis Müller hold his office hours?)",
+         " Welche Tage in der Woche hält Dennis Müller seine Sprechstunde? (Which days a week does Dennis Müller hold his consultation hour?)",
+         " Welche Tage in der Woche hält Dennis Müller seine Sprechstunde? (Which days a week does Dennis Müller hold his consultation hours?)",
+         " Welche Tage in der Woche hält Dennis Müller seine Sprechstunde? (What days a week does Dennis Müller hold his consultation hour?)"
+      ]
+   },
+   "huber1": {
+      "document": "Florian Huber hat seine Sprechstunde am Dienstag von 14:00 Uhr bis 16:00 Uhr",
+      "topics": [
+         " Welche Tage in der Woche hat Florian Huber seine Sprechstunde? Und welchen Zeitraum tagescover ausgedehnt ist?",
+         " Welche Tage in der Woche und was die genauen Zeiten sind, wenn Florian Huber seine Sprechstunde hält?",
+         " Welche Tage in der Woche und in welchen Zeitanfang und Ende hat die Sprechstunde von Florian Huber?",
+         " Welche Tage in der Woche und welchen Zeitraum hat Florian Huber für seine Sprechstunde?",
+         " Welche Tage in der Woche hat Florian Huber seine Sprechstunde? Und welche Stunden genau sind das?",
+         " Welche Tage in der Woche hat Florian Huber seine Sprechstunde?\n\nZu welchen Uhrzeiten ist die Sprechstunde von Florian Huber geöffnet?",
+         " Welche Tage in der Woche hat Florian Huber seine Sprechstunde? (What are the days of the week that Florian Huber has his appointment hours?)\n\nZu den angegebenen Zeiten hat Florian Huber seine Sprechstunde an folgenden Tagen: Dienstag. (According to the given times, Florian Huber has his appointment hours on Tuesdays.)",
+         " Welche Tageswochenstunden hat Florian Huber für seine Sprechstunde? (Which days of the week does Florian Huber have his consultation hours?)\n\nZu verstehen ist, dass Sie mich fragen, ob ich aus dem Dokument heraus ableiten kann, an welchen Tagen Florian Huber seine Sprechstunde hat. Dieses Dokument belegt ledigently, dass er dies am Dienstag von 14:00 Uhr bis 16:00 Uhr tut. Deshalb ist die richtige Antwort, dass Florian Huber diese Tage wochentags hat. Aber um eine Frage zu stellen, muss ich auch eine Frage formulieren. Die oben gegebene Frage sollte daher hilfreich sein, um das Dokument zu befragen.",
+         " Welche Tage in der Woche hält Florian Huber seine Sprechstunde? (Which days a week does Florian Huber hold his consultation hours?)",
+         " Welche Tage in der Woche hält Florian Huber seine Sprechstunde?\n\n(Which days a week does Florian Huber hold his consultation hours?)"
+      ]
+   },
+   "hsd1": {
+      "document": "Die HSD befindet sich in Düsseldorf auf der Münsterstraße 156",
+      "topics": [
+         " Was ist die Adresse der HSD (Hochschule oder Institut)?\n\n(What is the address of the HSD, be it a university or an institute?)",
+         " Wo befinden sich die Koordinaten oder die Adresse des Dokument-spezifischen Objektes genauer beschrieben (HSD), um es später leichter identifizieren zu können?\n\n(Wo is the location or the address of the object described in the document (HSD) more specifically, so that it can be identified more easily later?)",
+         " Wo befinden sich die Koordinaten oder die Adresse des Dokument-spezifizierten HSD genauer beschrieben? (Wo ist der HSD mit Sicherheit zu finden?)",
+         " Wo befindet sich die HSD im Besitz derangaben liefern wir bitte in der Münsterstraße situiert ist? (Wo ist die HSD im Sinne der Angabe im Dokument gelegen?)",
+         " Wo befinden sich die Koordinaten oder die Adresse des HSD genauer beschrieben (beispielsweise Hausnummer und Straße), sodass man es lokal finden kann?\n\nIn English:\n\nWhat are the specific coordinates or address details of the HSD, so that one can locate it locally?",
+         " Wo liegt die HSD im Speziellen? (WHERE is the HSD specifically?)",
+         " Wo liegt die HSD im speziellen? (WHERE is the HSD specifically?)",
+         " Wo befinden sich die Koordinaten der HSD im Detail (Adresse ist bekannt, aber genaues Koordinatensystem fehlt)?",
+         " Wo befinden sich die Koordinaten oder die Adresse des Hauses HSD genau? (Where are the exact coordinates or address of the house HSD?)",
+         " Wo befinden sich die Koordinaten oder die Adresse des Gebäudes HSD genau? (WHERE are the exact coordinates or address of the building HSD?)"
+      ]
+   },
+   "dmu2": {
+      "document": "Dennis Müller unterrichtet Einführung in die KI, Machine Perception Tracking und Advances in AI",
+      "topics": [
+         " Was sind die einzelnen Themen, die Dennis Müller im Rahmen seines Unterrichts behandelt? (Was unterrichtet Dennis Müller genau: Einführung in die KI, Machine Perception Tracking und welche Fortschrite in AI?)",
+         " Was sind die einzelnen Themen, die Dennis Müller im Rahmen seines Unterrichts behandelt? (Was unterrichtet Dennis Müller genau in Einführung in die KI, Machine Perception und Advanced AI?)",
+         " Welche Fachgebiete werden in dem von Dennis Müller geleiteten Unterricht thematisch bearbeitet? (Was wird in der Einführung in die KI, Machine Perception und den Fortschritten in AI unter anderem behandelt?)",
+         " Was werden in dem Dokument genau unterrichtet: Einführung in die KI, Machine Perception Tracking und Advances in AI? (Was sind genau die Inhalte der Unterrichtsthemen?)",
+         " Was werden in dem Dokument genau unterrichtet: Einführung in die KI, Machine Perception Tracking und Advances in AI? (Was bedeuten diese Begriffe genauer im Kontext des Unterrichts?)",
+         " Was sind die genauen Inhalte des Unterrichts, das Dennis Müller leitet (Dennis Müller teaches what exactly?)?\n1. Einführung in die KI (Introduction to AI)\n2. Machine Perception Tracking\n3. Fortschritte in der künstlichen Intelligenz (Advances in AI)",
+         " Was werden in dem Dokument genau unterrichtet: Einführung in die KI, Machine Perception Tracking und Advances in AI? (Was sind genauer die Themen des Unterrichts?)",
+         " Was sind die genauen Inhalte des Unterrichts, welches Dennis Müller leitet: Einführung in künstliche Intelligenz, Machine Perception Tracking und Fortschritte in der künstlichen Intelligenz?",
+         " Was sind die genauen Themen, die in dem Dokument \"Einführung in die KI, Machine Perception Tracking und Advances in AI\" behandelt werden?",
+         " Was werden in diesem Dokument unterrichtet: Einführung in die KI, Machine Perception Tracking und Advances in AI? (Was wird in diesem Dokument über künstliche Intelligenz-Einführung, Machine Perception Tracking und Fortschritte in der künstlichen Intelligenz unterrichtet?)"
+      ]
+   },
+   "tdod1": {
+      "document": "Der Tag der offenen Tür findet am 12.06.2024 von 09:00 Uhr bis 16:00 Uhr statt",
+      "topics": [
+        "Wann wäre ein guter Zeitpunkt sich die HSD mal anzuschauen?"
+      ]
+   },
+   "bachelor1": {
+      "document": "Ein Bachelorstudium besteht aus insgesamt 180 Credit Points",
+      "topics": [
+         " Welche Gesamtpunktzahl muss in einem Bachelorstudium absolviert werden?",
+         " Wie many Credit Points müssen für das Abschneiden eines Bachlor-Studiums samtlich gesammelt werden?",
+         " Wie many Credit Points muss man im Bachlorstudium absolvieren?",
+         " Wie viele Credit Points muss für das Abschlussdeskriptum eines Bachelorstudiums erworben werden?",
+         " Wie viele Credit Points muss für das Abschlussdeskriptum eines Bachelorstudiums erlangt werden?",
+         " Wie many Credit Points müssen für das Abschließen eines Bachelorstudiums sammelt man?",
+         " Welche Gesamtpunktzahl muss für das Erlangen eines Bachelorabschlusses erfüllt werden? (Frage zur Dokumenttextstelle: \"Ein Bachelorstudium besteht aus insgesamt 180 Credit Points\")",
+         " Wie viele Credit Points sind in einem Bachelorstudiuum gesamtsAMt enthalten?",
+         " Wie viele Credit Points sind in einem Bachelorstudium enthalten?",
+         " Wie viele Credit Points muss ein Bachelorabschluss umfassen laut dem angegebenen Dokument?"
+      ]
+   },
+   "fbmedien1": {
+      "document": "Der Fachbereich Medien bietet mehrere Studiengänge an, darunter Medien und Tontechnik, Medieninformatik und DAISY"
+   },
+   "daisy1": {
+      "document": "Die Abkürzung DAISY steht fücr Data Science, Artificial Intelligence and Intelligent Systems"
+   },
+   "daisy2": {
+      "document": "DAISY Studierende müssen ein 4-monatiges externes Semester bei einem Unternehmen ausserhalb der HSD absolvieren"
+   },
+   "dmu3": {
+      "document": "Der netteste Professor an der HSD heißt Dennis Müller"
+   },
+   "040a9186-1ed9-4132-94be-c381ddf1d6b4": {
+      "document": "Test"
+   },
+   "fact1": {
+      "document": "Die HSD bietet Studiengänge aus dem Bereich Architektur und Design, Wirtschaftswissenschaften, Medien, Elektrotechnik sowie Maschienenbau an."
+   }
+}
